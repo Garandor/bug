@@ -1,0 +1,19 @@
+{
+  "rustc": 9110000000653653150,
+  "features": "[]",
+  "target": 2995472741304803799,
+  "profile": 3735503092003429423,
+  "path": 1730770910357831729,
+  "deps": [],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "debug/.fingerprint/owo-colors-11e9153e05637053/dep-lib-owo-colors"
+      }
+    }
+  ],
+  "rustflags": [],
+  "metadata": 12739814832942918178,
+  "config": 2202906307356721367,
+  "compile_kind": 0
+}

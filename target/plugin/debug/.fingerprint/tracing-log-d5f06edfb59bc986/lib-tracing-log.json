@@ -1,0 +1,23 @@
+{
+  "rustc": 14994236941212876471,
+  "features": "[\"log-tracer\", \"std\"]",
+  "target": 11485463484051639185,
+  "profile": 3735503092003429423,
+  "path": 17012840577758628214,
+  "deps": [
+    [6597564319215557603, "log", false, 11600323516382837036],
+    [6685014296130524576, "lazy_static", false, 1000677149662328124],
+    [12328141551933524132, "tracing_core", false, 9096919171045222754]
+  ],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "debug/.fingerprint/tracing-log-d5f06edfb59bc986/dep-lib-tracing-log"
+      }
+    }
+  ],
+  "rustflags": ["-Awarnings"],
+  "metadata": 5378351068212337060,
+  "config": 2202906307356721367,
+  "compile_kind": 0
+}

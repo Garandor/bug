@@ -1,0 +1,1 @@
+/home/adam/test/async-tokio-template/test/target/debug/test: /home/adam/test/async-tokio-template/test/src/config.rs /home/adam/test/async-tokio-template/test/src/global_state.rs /home/adam/test/async-tokio-template/test/src/main.rs

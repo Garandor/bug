@@ -1,0 +1,19 @@
+{
+  "rustc": 14994236941212876471,
+  "features": "[\"default\", \"lazy_static\", \"std\"]",
+  "target": 17179423470633712400,
+  "profile": 3735503092003429423,
+  "path": 10720485015349123220,
+  "deps": [[6685014296130524576, "lazy_static", false, 1000677149662328124]],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "debug/.fingerprint/tracing-core-557d22c70000af43/dep-lib-tracing-core"
+      }
+    }
+  ],
+  "rustflags": ["-Awarnings"],
+  "metadata": 15100905884533717095,
+  "config": 2202906307356721367,
+  "compile_kind": 0
+}

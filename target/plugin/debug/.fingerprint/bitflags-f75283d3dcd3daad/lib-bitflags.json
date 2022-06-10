@@ -1,0 +1,19 @@
+{
+  "rustc": 14994236941212876471,
+  "features": "[\"default\"]",
+  "target": 7112745982619283648,
+  "profile": 3735503092003429423,
+  "path": 16981781093240159112,
+  "deps": [],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "debug/.fingerprint/bitflags-f75283d3dcd3daad/dep-lib-bitflags"
+      }
+    }
+  ],
+  "rustflags": ["-Awarnings"],
+  "metadata": 14564035643000669268,
+  "config": 2202906307356721367,
+  "compile_kind": 0
+}

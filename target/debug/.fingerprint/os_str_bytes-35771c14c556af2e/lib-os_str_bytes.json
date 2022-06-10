@@ -1,0 +1,19 @@
+{
+  "rustc": 9110000000653653150,
+  "features": "[\"raw_os_str\"]",
+  "target": 1743262049170660819,
+  "profile": 12637318739757120569,
+  "path": 11116890758724330353,
+  "deps": [],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "debug/.fingerprint/os_str_bytes-35771c14c556af2e/dep-lib-os_str_bytes"
+      }
+    }
+  ],
+  "rustflags": [],
+  "metadata": 16792357700193883464,
+  "config": 2202906307356721367,
+  "compile_kind": 0
+}

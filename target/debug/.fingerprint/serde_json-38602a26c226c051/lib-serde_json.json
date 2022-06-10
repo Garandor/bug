@@ -1,0 +1,24 @@
+{
+  "rustc": 9110000000653653150,
+  "features": "[\"default\", \"std\"]",
+  "target": 2475719121998694108,
+  "profile": 3735503092003429423,
+  "path": 5393441647230235583,
+  "deps": [
+    [5357092931389077452, "ryu", false, 17846287401324707487],
+    [12085481004719742323, "serde", false, 16261682422290629951],
+    [14632343088507765868, "build_script_build", false, 12636716274762387263],
+    [17824117949403888186, "itoa", false, 10485190536012219294]
+  ],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "debug/.fingerprint/serde_json-38602a26c226c051/dep-lib-serde_json"
+      }
+    }
+  ],
+  "rustflags": [],
+  "metadata": 16261601059619201932,
+  "config": 2202906307356721367,
+  "compile_kind": 0
+}

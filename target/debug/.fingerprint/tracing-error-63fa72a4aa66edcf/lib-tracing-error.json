@@ -1,0 +1,22 @@
+{
+  "rustc": 9110000000653653150,
+  "features": "[\"default\", \"traced-error\"]",
+  "target": 5305388743992673216,
+  "profile": 12637318739757120569,
+  "path": 4718041266820665334,
+  "deps": [
+    [8632587566085391097, "tracing", false, 10062030008613073256],
+    [16540588686278046953, "tracing_subscriber", false, 13715510929521638174]
+  ],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "debug/.fingerprint/tracing-error-63fa72a4aa66edcf/dep-lib-tracing-error"
+      }
+    }
+  ],
+  "rustflags": [],
+  "metadata": 8144316015762715610,
+  "config": 2202906307356721367,
+  "compile_kind": 0
+}

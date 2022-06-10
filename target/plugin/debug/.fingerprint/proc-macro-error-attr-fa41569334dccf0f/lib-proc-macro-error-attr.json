@@ -1,0 +1,23 @@
+{
+  "rustc": 14994236941212876471,
+  "features": "[]",
+  "target": 1073142170763118950,
+  "profile": 12637318739757120569,
+  "path": 15619390517197022795,
+  "deps": [
+    [7380346646409526878, "build_script_build", false, 11385251151216061349],
+    [11187512571400337516, "proc_macro2", false, 8788225161476474983],
+    [13094229560132741661, "quote", false, 16264508835366431620]
+  ],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "debug/.fingerprint/proc-macro-error-attr-fa41569334dccf0f/dep-lib-proc-macro-error-attr"
+      }
+    }
+  ],
+  "rustflags": ["-Awarnings"],
+  "metadata": 18059112814646350960,
+  "config": 2202906307356721367,
+  "compile_kind": 0
+}

@@ -1,0 +1,19 @@
+{
+  "rustc": 14994236941212876471,
+  "features": "[\"default\"]",
+  "target": 1860185909303701288,
+  "profile": 3735503092003429423,
+  "path": 14667240862873247166,
+  "deps": [],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "debug/.fingerprint/indenter-5a8d589747318cde/dep-lib-indenter"
+      }
+    }
+  ],
+  "rustflags": ["-Awarnings"],
+  "metadata": 13029896730158976736,
+  "config": 2202906307356721367,
+  "compile_kind": 0
+}

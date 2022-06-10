@@ -1,0 +1,19 @@
+{
+  "rustc": 14994236941212876471,
+  "features": "[]",
+  "target": 6139664849541123785,
+  "profile": 3735503092003429423,
+  "path": 1525778913372405714,
+  "deps": [],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "debug/.fingerprint/lazy_static-3ab14ef94a1f89cf/dep-lib-lazy_static"
+      }
+    }
+  ],
+  "rustflags": ["-Awarnings"],
+  "metadata": 111743654650316589,
+  "config": 2202906307356721367,
+  "compile_kind": 0
+}

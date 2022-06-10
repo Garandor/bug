@@ -1,0 +1,22 @@
+{
+  "rustc": 9110000000653653150,
+  "features": "[\"std\"]",
+  "target": 3529399203280365637,
+  "profile": 3735503092003429423,
+  "path": 10497166529880327109,
+  "deps": [
+    [2452538001284770427, "cfg_if", false, 3991404793411037270],
+    [6597564319215557603, "build_script_build", false, 12351182530790691127]
+  ],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "debug/.fingerprint/log-79050d46c61221cc/dep-lib-log"
+      }
+    }
+  ],
+  "rustflags": [],
+  "metadata": 179143468214550567,
+  "config": 2202906307356721367,
+  "compile_kind": 0
+}

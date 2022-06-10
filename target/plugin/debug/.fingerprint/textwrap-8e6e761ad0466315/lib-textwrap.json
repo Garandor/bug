@@ -1,0 +1,19 @@
+{
+  "rustc": 14994236941212876471,
+  "features": "[]",
+  "target": 17672572533709577788,
+  "profile": 3735503092003429423,
+  "path": 4851768662408735432,
+  "deps": [],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "debug/.fingerprint/textwrap-8e6e761ad0466315/dep-lib-textwrap"
+      }
+    }
+  ],
+  "rustflags": ["-Awarnings"],
+  "metadata": 17321965867798889997,
+  "config": 2202906307356721367,
+  "compile_kind": 0
+}

@@ -1,0 +1,26 @@
+{
+  "rustc": 9110000000653653150,
+  "features": "[\"alloc\", \"ansi\", \"ansi_term\", \"default\", \"fmt\", \"registry\", \"sharded-slab\", \"smallvec\", \"std\", \"thread_local\", \"tracing-log\"]",
+  "target": 7404854561841627795,
+  "profile": 12637318739757120569,
+  "path": 9918496212279136716,
+  "deps": [
+    [1661689562100330056, "ansi_term", false, 59433205656655793],
+    [2654797267717908768, "sharded_slab", false, 874981325815656813],
+    [3306683577264615609, "tracing_log", false, 8437953459874338010],
+    [4255009337474040975, "smallvec", false, 3688636403099509850],
+    [8756082075788440923, "thread_local", false, 15118767134185729020],
+    [12328141551933524132, "tracing_core", false, 8273358240992817541]
+  ],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "debug/.fingerprint/tracing-subscriber-714e2df574fb7e21/dep-lib-tracing-subscriber"
+      }
+    }
+  ],
+  "rustflags": [],
+  "metadata": 12822423491602284083,
+  "config": 2202906307356721367,
+  "compile_kind": 0
+}
